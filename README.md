@@ -5,13 +5,13 @@ Here you can find all my personal projects and those that I realized for Python 
 My aim is to spread my knowledge and edit all my resources in a well documented and explanatory way, with the hope that anyone can consult my repositories and find something useful and interesting!
 
 ## About me:
-I'm currently studying Machine Learning to achieve the role of Data Scientist
+I'm currently studying Data Science
 I'd like to realize collaborations for Data Science, Python scripts and open-source projects!
 ## Goals:
 Complete Data Science course on start2impact <br>
-Work as a Data Scientist <br>
+continue working in my current field using my newly acquired skills or become a fully-fledged Data Scientist <br>
 Overall Goals:
-Merge AI and ML technologies with Automotive/Climate Change and or Life Science;<br>
+Merge AI and ML technologies with Automotive ( my current field) and Climate Change or Life Science;<br>
 Help building a better future for the world<br>
 
 
