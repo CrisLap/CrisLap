@@ -12,9 +12,8 @@ Complete Data Science course on start2impact <br>
 Work as a Data Scientist <br>
 Overall Goals:
 Merge AI and ML technologies with Automotive/Climate Change and or Life Science;<br>
-Help building a better future for the world;<br>
-Die in peace (possibly elder)<br>
-Fun fact: I keep falling in 'rabbit holes' because I'm obsessed with knowledge 
+Help building a better future for the world<br>
+
 
 ##  Find me:
 
