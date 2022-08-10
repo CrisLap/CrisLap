@@ -1,4 +1,4 @@
-# Hi , 👋 I'm Cristian
+# Hi , :clap: I'm Cristian
 
 I have a  quantitative degree in Finance, but now I’m an aspiring Data Scientist.
 Here you can find all my personal projects and those that I realized for Python and Data Science courses I studied.
@@ -8,12 +8,12 @@ My aim is to spread my knowledge and edit all my resources in a well documented 
 I'm currently studying Machine Learning to achieve the role of Data Scientist
 I'd like to realize collaborations for Data Science, Python scripts and open-source projects!
 ## Goals:
-Complete Data Science course on start2impact;
-Work as a Data Scientist
+Complete Data Science course on start2impact <br>
+Work as a Data Scientist <br>
 Overall Goals:
-Merge AI and ML technologies with Automotive/Climate Change and or Life Science;
-Help building a better future for the world;
-Die in peace (possibly elder)
+Merge AI and ML technologies with Automotive/Climate Change and or Life Science;<br>
+Help building a better future for the world;<br>
+Die in peace (possibly elder)<br>
 Fun fact: I keep falling in 'rabbit holes' because I'm obsessed with knowledge 
 
 ##  Find me:
