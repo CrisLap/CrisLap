@@ -12,7 +12,7 @@ Complete Data Science course on start2impact <br>
 Continue working in my current field using my newly acquired skills or become a fully-fledged Data Scientist <br>
 Overall Goals:
 Merge AI and ML technologies with Automotive and NLT ( my current field);<br>
-I'm also interested in Climate Change and Life Science;<br>
+I'm also interested in Finance, Climate Change and Life Science;<br>
 Help building a better future for the world<br>
 
 
@@ -24,7 +24,7 @@ kaggle: https://www.kaggle.com/cristianlapenta
 
 ## Languages and Tools I currently use:
 
-Python Jupyter Numpy Pandas Matplotlib Seaborn Plotly Scikit-learn Anaconda Github Sql/Mysql Tableau
+Python Jupyter Numpy Pandas Matplotlib Seaborn Plotly Scikit-learn Anaconda Github Sql/Mysql Tableau Streamlit
 
 
 
