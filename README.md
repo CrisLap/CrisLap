@@ -8,7 +8,6 @@ My aim is to spread my knowledge and edit all my resources in a well documented 
 I'm currently studying Data Science <br>
 I'd like to realize collaborations for Data Science, Python scripts and open-source projects!
 ## Goals:
-Complete Data Science course on start2impact <br>
 Continue working in my current field using my newly acquired skills or become a fully-fledged Data Scientist <br>
 Overall Goals:
 Merge AI and ML technologies with Automotive and NLT ( my current field);<br>
