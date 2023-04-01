@@ -12,6 +12,7 @@ Continue working in my current field using my newly acquired skills or become a 
 Overall Goals:
 Merge AI and ML technologies with Automotive and NLT ( my current field);<br>
 I'm also interested in Finance, Climate Change and Life Science;<br>
+Besides, I am fascinated by the application of technology to the sports industry;<br>
 Help building a better future for the world<br>
 
 
