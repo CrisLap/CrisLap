@@ -24,7 +24,7 @@ kaggle: https://www.kaggle.com/cristianlapenta
 
 ## Languages and Tools I currently use:
 
-Python Jupyter Numpy Pandas Matplotlib Seaborn Plotly Scikit-learn Anaconda Github Sql/Mysql Tableau Streamlit Git R/RStudio
+Python Jupyter Numpy Pandas Matplotlib Seaborn Plotly Scikit-learn Keras Tensorflow Anaconda Github Sql/Mysql Tableau Streamlit Git R/RStudio Spark
 
 
 
